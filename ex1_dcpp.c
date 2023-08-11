@@ -13,6 +13,6 @@ int main(){
 	printf("Turma: 02N11\n");
 	
 	// pause antes de terminar o programa
-	system("pause");
+	// system("pause");
 	return 0;
 }
