@@ -8,4 +8,7 @@ Both codes run approximately the same code, but  for different compilers, so:
 - Dv_cpp : dev C++ compiler
 - vscode : Visual studio code
 
+More examples:
+- ex2.c : Arithmetic Operations
+
 Happy for sharing with you🎉
