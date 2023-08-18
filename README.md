@@ -1,14 +1,6 @@
-# ap2_2023s2_lab1
+# Algorithms and Programming II
 
-This week I want to share a bit about my journey into c code 🧑‍💻
+Happy to share my C projects 🎉
 
-Simple code just to get started: https://github.com/rafaelgildin/ap2_2023s2_lab1 ⭐
-
-Both codes run approximately the same code, but  for different compilers, so:
-- Dv_cpp : dev C++ compiler
-- vscode : Visual studio code
-
-More examples:
-- ex2.c : Arithmetic Operations
-
-Happy for sharing with you🎉
+Projects:
+- [1: Arithmetic Operations](lab1/README.md)
